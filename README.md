@@ -4,8 +4,8 @@ A smart, offline, browser-based **personalized study scheduler** built with HTML
 
 It helps students create optimized daily study timetables based on subjects, topics, deadlines, priorities, and available daily study hours — with automatic revision time allocation, dynamic rescheduling, progress tracking, and Pomodoro-style break suggestions.
 
-![AI Study Planner Screenshot](https://via.placeholder.com/1200x600/4f46e5/ffffff?text=AI+Study+Planner+Screenshot)  
-*(Replace this placeholder with a real screenshot later)*
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4114e539-3d30-4aaa-80c9-fdfeef1f091b" />
+
 
 ## Features
 
